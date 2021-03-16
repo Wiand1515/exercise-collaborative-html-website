@@ -43,7 +43,11 @@
     "syntax": "html",
     "description": "Build website among a team of several collaborators",
     "talents": [],
+<<<<<<< HEAD
+    "session": 4752291828673414000,
+=======
     "session": 1626641766378340600,
+>>>>>>> e5241df437adfb9f94a216e811c7c1ab14b0df24
     "exercises": [
         {
             "position": 0,
